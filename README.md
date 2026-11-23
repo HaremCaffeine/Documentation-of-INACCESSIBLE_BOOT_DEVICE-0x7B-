@@ -1,9 +1,15 @@
-# Documentation-of-INACCESSIBLE_BOOT_DEVICE-0x7B-
+# Documentation-of-INACCESSIBLE_BOOT_DEVICE-0x7B- ASUS VivoBook X1500EA 
+
+**Documented by Harem Caffeine**
+
+Cybersecurity • Privacy • Technology
+
+---
+
+A practical technical case study documenting
+Windows 11 boot recovery and Intel RST/VMD
+storage-driver investigation.
 This project documents the troubleshooting and recovery of a Windows 11 boot failure on an ASUS VivoBook X1500EA. The system displayed the INACCESSIBLE_BOOT_DEVICE (0x7B) stop code and repeatedly entered Windows Automatic Repair instead of starting normally.
-
-# ASUS VivoBook X1500EA: Windows 11 INACCESSIBLE_BOOT_DEVICE Repair
-
-A real-world troubleshooting and recovery case study documenting a Windows 11 boot failure on an ASUS VivoBook X1500EA.
 
 ## Overview
 
