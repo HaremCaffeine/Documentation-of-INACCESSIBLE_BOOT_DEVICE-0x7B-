@@ -2,7 +2,7 @@
 
 **Documented by Harem Caffeine**
 
-Cybersecurity • Privacy • Technology
+Live, Laugh, Love
 
 ---
 
