@@ -1,3 +1,4 @@
+<img width="860" height="484" alt="02-bios-information" src="https://github.com/user-attachments/assets/bd052f89-7545-4607-87da-24725a7a3327" />
 # 02. BIOS Investigation
 
 ## Overview
