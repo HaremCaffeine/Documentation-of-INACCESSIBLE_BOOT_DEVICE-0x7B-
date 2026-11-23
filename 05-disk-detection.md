@@ -61,4 +61,3 @@ No partition formatting, deletion, or resizing was performed as part of this doc
 The internal Micron 2400 NVMe SSD and its important partitions were successfully detected through DiskPart.
 
 **Next Step:** Exit Windows Recovery Environment and attempt a normal Windows 11 startup.<img width="1155" height="740" alt="Screenshot 2026-11-23 072524" src="https://github.com/user-attachments/assets/39e3ee6c-7438-45b2-b326-5c927f6541ed" />
-<img width="1155" height="740" alt="Screenshot 2026-11-23 072524" src="https://github.com/user-attachments/assets/0f56ab65-be8b-47ec-b2b0-13e6e050f7e0" />
