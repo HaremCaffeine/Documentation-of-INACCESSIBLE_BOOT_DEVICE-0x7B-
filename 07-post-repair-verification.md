@@ -84,4 +84,4 @@ Windows 11 successfully booted, the Intel RST controllers were visible in Device
 
 The initial boot recovery was successful. However, long-term stability and the exact root cause remain unverified.
 
-**Final Status:** Initial recovery successful. Further stability verification recommended.<img width="1155" height="740" alt="Screenshot 2026-11-23 072524" src="https://github.com/user-attachments/assets/0f655a5c-21cd-422c-ae5f-6bcee52d1120" />
+**Final Status:** Initial recovery successful. Further stability verification recommended.
