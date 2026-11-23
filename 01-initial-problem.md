@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="01-blue-screen" src="https://github.com/user-attachments/assets/28b40a69-3167-458a-ad38-cf4b56bffb68" />
 # 01. Initial Problem
 
 ## Overview
