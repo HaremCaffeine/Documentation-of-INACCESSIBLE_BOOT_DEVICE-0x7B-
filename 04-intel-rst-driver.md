@@ -1,3 +1,4 @@
+<img width="700" height="640" alt="04-intel-rst-driver" src="https://github.com/user-attachments/assets/a6d4d7b5-9cf2-49b6-a93d-db3e81ff0888" />
 # 04. Intel RST/VMD Driver Investigation
 
 ## Overview
