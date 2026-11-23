@@ -51,4 +51,3 @@ The Windows 11 installation successfully booted on the ASUS VivoBook X1500EA aft
 **Recovery Status:** Initial boot recovery successful.
 
 **Next Step:** Perform post-recovery verification, including Device Manager inspection, SSD health checks, and Windows stability testing.<img width="1280" height="720" alt="WhatsApp Image 2026-11-22 at 23 18 01" src="https://github.com/user-attachments/assets/97496c7e-bda3-40f5-8582-6a5f74a5ce56" />
-<img width="1280" height="720" alt="WhatsApp Image 2026-11-22 at 23 18 01" src="https://github.com/user-attachments/assets/4d809abd-f3e0-4add-aeb2-6ddd49dc8d9f" />
